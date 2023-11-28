@@ -1,0 +1,8 @@
+footer {
+    padding: 1rem 2rem;
+    color: lightgray;
+  }
+  
+  footer nav a {
+    color: tomato;
+  }
